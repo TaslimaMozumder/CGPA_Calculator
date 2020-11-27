@@ -28,4 +28,4 @@ Tools/framework used: Xampp, Sublime Text, Python, SQLiteStudio
 References: I used code from a GitHub repository (https://github.com/Akash280999/CGPA-Calculator)
                     
 Developers: 
-Taslima Mozumder (1711403042) [ CSE327 Section 8] {Product Owner and Scrum Master}
+Taslima Mozumder (1711403042) [ CSE327 Section 6] {Product Owner and Scrum Master}
