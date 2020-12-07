@@ -1,6 +1,6 @@
 App name: CGPA Calculator
 
-Description: Cgpa calculator to calculate CGPA and to keep a track of academic performance using Python and GUI.
+Description: Cgpa calculator to calculate CGPA and to keep a track of academic performance using Python.
 
 Type of app: Web application
 
@@ -17,7 +17,7 @@ Main features:
 - view transcript
 - view/update the grading system
 
-Operating system: Windows 10
+Operating system: Any operating systems
 
 How to use: Visit http://.............................
 
