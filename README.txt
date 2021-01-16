@@ -1,6 +1,6 @@
 App name: CGPA Calculator
 
-Description: Cgpa calculator to calculate CGPA and to keep a track of academic performance using Python.
+Description: Cgpa calculator to calculate CGPA and to keep a track of academic performance.
 
 Type of app: Web application
 
@@ -21,9 +21,9 @@ Operating system: Any operating systems
 
 How to use: Visit http://.............................
 
-Written in: html, javascript, css, php, Python
+Written in: html, javascript, css, php
 
-Tools/framework used: Xampp, Sublime Text, Python, SQLiteStudio
+Tools/framework used: Xampp, Sublime Text, Visual Studio Code
 
 References: I used code from a GitHub repository (https://github.com/Akash280999/CGPA-Calculator)
                     
